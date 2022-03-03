@@ -1,0 +1,17 @@
+/.updaterId
+/blob_storage
+/Code Cache
+/Cookies
+/Cookies-journal
+/Crashpad
+/Dictionaries
+/GPUCache
+/Local Storage
+/log*.txt
+/Network Persistent State
+/plugins
+/Preferences
+/sentry
+/Session Storage
+/TransportSecurity
+/window.json
